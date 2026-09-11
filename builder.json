@@ -1,0 +1,18 @@
+{
+  "project": "gramsrv-Telegram-iOS",
+  "platform": "ios",
+  "github": {
+    "owner": "disfo12232",
+    "repo": "gramsrv-Telegram-iOS"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
