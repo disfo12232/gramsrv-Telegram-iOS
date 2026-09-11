@@ -1,13 +1,13 @@
 {
-	"bundle_id": "org.{! a random string !}.Telegram",
-	"api_id": "{! get one at https://my.telegram.org/apps !}",
-	"api_hash": "{! get one at https://my.telegram.org/apps !}",
-	"team_id": "{! check README.md !}",
+	"bundle_id": "org.clixogram.Telegram",
+	"api_id": "32889102",
+	"api_hash": "372ddb0f0559a91f79019309370f25d1",
+	"team_id": "",
 	"app_center_id": "0",
 	"is_internal_build": "true",
 	"is_appstore_build": "false",
 	"appstore_id": "0",
-	"app_specific_url_scheme": "tg",
+	"app_specific_url_scheme": "clixogram",
 	"premium_iap_product_id": "",
 	"enable_siri": false,
 	"enable_icloud": false
